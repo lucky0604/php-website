@@ -72,7 +72,7 @@
 <!-- Services section-->
 <section class="page-section" id="services">
     <div class="container">
-        <h2 class="text-center mt-0">At Your Service</h2>
+        <h2 class="text-center mt-0">Our Services</h2>
         <hr class="divider my-4" />
         <div class="row">
             <div class="col-lg-3 col-md-6 text-center">
@@ -88,7 +88,7 @@
                 <div class="mt-5">
                     <i class="fas fa-4x fa-laptop-code text-primary mb-4"></i>
                     <h3 class="h4 mb-2">Web Application</h3>
-                    <p class="text-muted mb-0">Good at SaaS, PAAS product development, with a lot of e-commerce product development experience, to provide a solid foundation for user business development
+                    <p class="text-muted mb-0">Good at SaaS, PaaS product development, with a lot of e-commerce product development experience, to provide a solid foundation for user business development
                     </p>
                 </div>
             </div>
@@ -96,14 +96,16 @@
                 <div class="mt-5">
                     <i class="fas fa-4x fa-globe text-primary mb-4"></i>
                     <h3 class="h4 mb-2">Mobile Application</h3>
-                    <p class="text-muted mb-0">You can use this design as is, or you can make changes!</p>
+                    <p class="text-muted mb-0">Be familiar with the development of native app and hybrid app to meet the user's demand for mobile market.
+                    </p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="mt-5">
                     <i class="fas fa-4x fa-heart text-primary mb-4"></i>
                     <h3 class="h4 mb-2">Consultation</h3>
-                    <p class="text-muted mb-0">Is it really open source if it's not made with love?</p>
+                    <p class="text-muted mb-0">We will use our professional knowledge and data analysis report to provide users with consulting information in the field of products and technology, so that users can understand the market more clearly
+                    </p>
                 </div>
             </div>
         </div>
@@ -114,11 +116,11 @@
     <div class="container-fluid p-0">
         <div class="row no-gutters">
             <div class="col-lg-4 col-sm-6">
-                <a class="portfolio-box" href="assets/img/portfolio/fullsize/1.jpg"
-                ><img class="img-fluid" src="assets/img/portfolio/thumbnails/1.jpg" alt="" />
+                <a class="portfolio-box" href="assets/img/portfolio/fullsize/666.png"
+                ><img class="img-fluid" src="assets/img/portfolio/thumbnails/666.png" alt="" />
                     <div class="portfolio-box-caption">
                         <div class="project-category text-white-50">Category</div>
-                        <div class="project-name">Project Name</div>
+                        <div class="project-name">SaaS Product</div>
                     </div></a
                 >
             </div>
@@ -127,7 +129,7 @@
                 ><img class="img-fluid" src="assets/img/portfolio/thumbnails/2.jpg" alt="" />
                     <div class="portfolio-box-caption">
                         <div class="project-category text-white-50">Category</div>
-                        <div class="project-name">Project Name</div>
+                        <div class="project-name">Business Website</div>
                     </div></a
                 >
             </div>
@@ -136,16 +138,16 @@
                 ><img class="img-fluid" src="assets/img/portfolio/thumbnails/3.jpg" alt="" />
                     <div class="portfolio-box-caption">
                         <div class="project-category text-white-50">Category</div>
-                        <div class="project-name">Project Name</div>
+                        <div class="project-name">Mini Program</div>
                     </div></a
                 >
             </div>
             <div class="col-lg-4 col-sm-6">
                 <a class="portfolio-box" href="assets/img/portfolio/fullsize/4.jpg"
-                ><img class="img-fluid" src="assets/img/portfolio/thumbnails/4.jpg" alt="" />
+                ><img class="img-fluid" src="assets/img/portfolio/thumbnails/555.JPG" alt="" />
                     <div class="portfolio-box-caption">
                         <div class="project-category text-white-50">Category</div>
-                        <div class="project-name">Project Name</div>
+                        <div class="project-name">Hybrid Application</div>
                     </div></a
                 >
             </div>
@@ -154,7 +156,7 @@
                 ><img class="img-fluid" src="assets/img/portfolio/thumbnails/5.jpg" alt="" />
                     <div class="portfolio-box-caption">
                         <div class="project-category text-white-50">Category</div>
-                        <div class="project-name">Project Name</div>
+                        <div class="project-name">Native Application</div>
                     </div></a
                 >
             </div>
@@ -163,7 +165,7 @@
                 ><img class="img-fluid" src="assets/img/portfolio/thumbnails/6.jpg" alt="" />
                     <div class="portfolio-box-caption p-3">
                         <div class="project-category text-white-50">Category</div>
-                        <div class="project-name">Project Name</div>
+                        <div class="project-name">E-commerce System</div>
                     </div></a
                 >
             </div>
@@ -173,8 +175,8 @@
 <!-- Call to action section-->
 <section class="page-section bg-dark text-white">
     <div class="container text-center">
-        <h2 class="mb-4">Free Download at Start Bootstrap!</h2>
-        <a class="btn btn-light btn-xl" href="https://startbootstrap.com/themes/creative/">Download Now!</a>
+        <h2 class="mb-4">Labelhub - Sign Up for Free</h2>
+        <a class="btn btn-light btn-xl" href="http://app.labelhub.cn">Free trial Now!</a>
     </div>
 </section>
 <!-- Contact section-->
@@ -190,18 +192,18 @@
         <div class="row">
             <div class="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
                 <i class="fas fa-phone fa-3x mb-3 text-muted"></i>
-                <div>+1 (555) 123-4567</div>
+                <div>+86 151-6087-3393</div>
             </div>
             <div class="col-lg-4 mr-auto text-center">
                 <i class="fas fa-envelope fa-3x mb-3 text-muted"></i
-                ><!-- Make sure to change the email address in BOTH the anchor text and the link target below!--><a class="d-block" href="mailto:contact@yourwebsite.com">contact@yourwebsite.com</a>
+                ><!-- Make sure to change the email address in BOTH the anchor text and the link target below!--><a class="d-block" href="mailto:lucky_soft@163.com">lucky_soft@163.com</a>
             </div>
         </div>
     </div>
 </section>
 <!-- Footer-->
 <footer class="bg-light py-5">
-    <div class="container"><div class="small text-center text-muted">Copyright © 2020 - Start Bootstrap</div></div>
+    <div class="container"><div class="small text-center text-muted">Copyright © 2020 - SOFTTEAM</div></div>
 </footer>
 <!-- Bootstrap core JS-->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>

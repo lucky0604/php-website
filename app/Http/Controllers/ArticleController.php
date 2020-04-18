@@ -9,7 +9,6 @@ use App\Tag;
 use App\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
-use Faker\Provider\Image;
 
 class ArticleController extends Controller
 {
