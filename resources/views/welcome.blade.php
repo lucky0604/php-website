@@ -116,7 +116,7 @@
     <div class="container-fluid p-0">
         <div class="row no-gutters">
             <div class="col-lg-4 col-sm-6">
-                <a class="portfolio-box" href="assets/img/portfolio/fullsize/666.png"
+                <a class="portfolio-box" href="assets/img/portfolio/fullsize/labelhub.png"
                 ><img class="img-fluid" src="assets/img/portfolio/thumbnails/666.png" alt="" />
                     <div class="portfolio-box-caption">
                         <div class="project-category text-white-50">Category</div>
@@ -125,8 +125,8 @@
                 >
             </div>
             <div class="col-lg-4 col-sm-6">
-                <a class="portfolio-box" href="assets/img/portfolio/fullsize/2.jpg"
-                ><img class="img-fluid" src="assets/img/portfolio/thumbnails/2.jpg" alt="" />
+                <a class="portfolio-box" href="assets/img/portfolio/fullsize/awkvect.png"
+                ><img class="img-fluid" src="assets/img/portfolio/thumbnails/987.png" alt="" />
                     <div class="portfolio-box-caption">
                         <div class="project-category text-white-50">Category</div>
                         <div class="project-name">Business Website</div>
@@ -134,8 +134,8 @@
                 >
             </div>
             <div class="col-lg-4 col-sm-6">
-                <a class="portfolio-box" href="assets/img/portfolio/fullsize/3.jpg"
-                ><img class="img-fluid" src="assets/img/portfolio/thumbnails/3.jpg" alt="" />
+                <a class="portfolio-box" href="assets/img/portfolio/fullsize/951.jpg"
+                ><img class="img-fluid" src="assets/img/portfolio/thumbnails/879.png" alt="" />
                     <div class="portfolio-box-caption">
                         <div class="project-category text-white-50">Category</div>
                         <div class="project-name">Mini Program</div>
@@ -143,7 +143,7 @@
                 >
             </div>
             <div class="col-lg-4 col-sm-6">
-                <a class="portfolio-box" href="assets/img/portfolio/fullsize/4.jpg"
+                <a class="portfolio-box" href="assets/img/portfolio/fullsize/789.JPG"
                 ><img class="img-fluid" src="assets/img/portfolio/thumbnails/555.JPG" alt="" />
                     <div class="portfolio-box-caption">
                         <div class="project-category text-white-50">Category</div>
@@ -152,8 +152,8 @@
                 >
             </div>
             <div class="col-lg-4 col-sm-6">
-                <a class="portfolio-box" href="assets/img/portfolio/fullsize/5.jpg"
-                ><img class="img-fluid" src="assets/img/portfolio/thumbnails/5.jpg" alt="" />
+                <a class="portfolio-box" href="assets/img/portfolio/fullsize/159.JPG"
+                ><img class="img-fluid" src="assets/img/portfolio/thumbnails/528.png" alt="" />
                     <div class="portfolio-box-caption">
                         <div class="project-category text-white-50">Category</div>
                         <div class="project-name">Native Application</div>
@@ -176,7 +176,7 @@
 <section class="page-section bg-dark text-white">
     <div class="container text-center">
         <h2 class="mb-4">Labelhub - Sign Up for Free</h2>
-        <a class="btn btn-light btn-xl" href="http://app.labelhub.cn">Free trial Now!</a>
+        <a class="btn btn-light btn-xl" target="_blank" href="http://app.labelhub.cn">Free trial Now!</a>
     </div>
 </section>
 <!-- Contact section-->
@@ -196,7 +196,7 @@
             </div>
             <div class="col-lg-4 mr-auto text-center">
                 <i class="fas fa-envelope fa-3x mb-3 text-muted"></i
-                ><!-- Make sure to change the email address in BOTH the anchor text and the link target below!--><a class="d-block" href="mailto:lucky_soft@163.com">lucky_soft@163.com</a>
+                ><!-- Make sure to change the email address in BOTH the anchor text and the link target below!--><a class="d-block" href="mailto:lucky_soft@163.com" style="text-decoration: none; color: #212529;">lucky_soft@163.com</a>
             </div>
         </div>
     </div>

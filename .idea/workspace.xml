@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e73b48fa-1b43-4cb9-a1a1-2673ea64ce51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/fullsize/awkvect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/fullsize/labelhub.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/thumbnails/555.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/thumbnails/666.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/thumbnails/labelhub.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/fullsize/159.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/fullsize/789.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/fullsize/951.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/thumbnails/528.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/thumbnails/879.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/thumbnails/987.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
@@ -149,7 +150,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets/img/portfolio/thumbnails" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets/img/portfolio/fullsize" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -161,8 +162,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/assets/img/portfolio/thumbnails" />
       <recent name="$PROJECT_DIR$/public/assets/img/portfolio/fullsize" />
+      <recent name="$PROJECT_DIR$/public/assets/img/portfolio/thumbnails" />
       <recent name="$PROJECT_DIR$/public/assets" />
     </key>
   </component>
@@ -178,11 +179,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.welcome.blade.php">
+    <configuration name="welcome.blade.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/blog/resources/views/welcome.blade.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.welcome.blade.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -198,7 +207,8 @@
       <workItem from="1586829096770" duration="14533000" />
       <workItem from="1587006773762" duration="4000" />
       <workItem from="1587091672014" duration="14761000" />
-      <workItem from="1587176416575" duration="6932000" />
+      <workItem from="1587176416575" duration="7732000" />
+      <workItem from="1587356604517" duration="7648000" />
     </task>
     <servers />
   </component>
